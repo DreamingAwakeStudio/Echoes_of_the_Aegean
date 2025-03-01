@@ -1,0 +1,4 @@
+repository "Jogo PS1/Jogo PS1@4674067505386@cloud"
+  path "/"
+    br "/main"
+    co "/main"
