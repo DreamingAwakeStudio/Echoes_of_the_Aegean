@@ -24,19 +24,4 @@ public class PlayerMov : MonoBehaviour
         this.inputX = Input.GetAxis("Horizontal");
         this.inputZ = Input.GetAxis("Vertical");
     }
-
-    /*private CharacterController controller;
-    void Start()
-    {
-        controller = GetComponent<CharacterController>();
-    }
-
-    void Update()
-    {
-        float horizontal = UnityEngine.Input.GetAxis("Horizontal");
-        float vertical = UnityEngine.Input.GetAxis("Vertical");
-
-        Vector3 movimento = new Vector3(horizontal, 0, vertical);
-        controller.Move(movimento * Time.deltaTime);
-    }*/
 }
