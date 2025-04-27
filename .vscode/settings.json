@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Echoes_of_the_Aegean.sln"
+    "dotnet.defaultSolution": "Echoes of the Aegean.sln"
 }
